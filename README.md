@@ -26,15 +26,30 @@ $ git clone https://github.com/catalyn98/CurriculumTestAutomationFrameworkScoala
 * JUnit 4.13.2 or higher;
 * Chrome driver on your machine needs to be the same version as it is in the framework.
 
-#Curriculum Test Automation
+# Curriculum Test Automation
 This respository contains the practical exercises carried out during the course. The educational program proposes learning automated testing by creating an automated testing framework from scratch.
 During the course offered by Școala Informală de IT the following curriculum was covered:
-| Topic             | Description                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Web App Fundamentals | HTML basics, DOM introduction |
-| Intro in automation | What is automation? Why automate? How to automate?, Some of the basic tools used, Test cases practices |
-| Environment setup | Programming language (Java), Integrated development environment (Eclipse IDEA) |
-| OOP / programming intro | Basic concepts, Coding standards, naming conventions |
-| Automation framework | Concept, structure, tools, terminology,  |
-| Selenium Webdriver | Basic concepts, Coding standards, naming conventions |
-| Web automation (end to end) project | Basic concepts, Coding standards, naming conventions |
+| Topic  | Description |
+| ------------- | ------------- |
+| **Web App Fundamentals**  | HTML basics  |
+|               | DOM introduction  |
+| **Intro in automation**  | What is automation? Why automate? How to automate?  |
+|               | Web automation practices and approach  |
+|               | Some of the basic tools used  |
+|               | Automation principles  |
+| **Environment setup**  | Programming language (Java)  |
+|               | Integrated development environment (Eclipse IDEA)  |
+| **OOP / programming intro**  | Basic concepts  |
+|               | Coding standards, naming conventions  |
+| **Automation framework**  | Concept, structure, tools, terminology  |
+|               | Debug code and tests  |
+|               | Create/add new test scenarios  |
+|               | Read / investigate results  |
+| **Selenium Webdriver**  | Web elements identification  |
+|               | Write locators CSS and XPath  |
+|               | Webdriver commands  |
+|               | Write locators CSS and XPath  |
+| **Web automation (end to end) project**  | Create an automation project from scratch  |
+|               | Use of page object model  |
+|               | Structure code, tests and results  |
+|               | See https://github.com/catalyn98/WebAutomationEndToEndProjectWithSelenium  |
