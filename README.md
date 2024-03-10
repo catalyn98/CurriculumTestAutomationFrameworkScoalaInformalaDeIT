@@ -1,21 +1,21 @@
 <h1 align="center">
-    Web automation end to end project (Școala Informală de IT)
+    Automated Testing with Java Selenium course provided by Școala Informală de IT
 </h1>
 <p align="center">
     Java, Selenium, Școala Informală de IT
 </p>
-
 <p align="center">
     <img src="https://github.com/catalyn98/CurriculumTestAutomationFrameworkScoalaInformalaDeIT/blob/main/Java-Logo.png" width="30%"/> 
     <img src="https://github.com/catalyn98/CurriculumTestAutomationFrameworkScoalaInformalaDeIT/blob/main/Selenium_logo.png" width="30%"/> 
     <img src="https://github.com/catalyn98/CurriculumTestAutomationFrameworkScoalaInformalaDeIT/blob/main/ScoalaIT.jpg" width="30%"/>
 </p>
+This repository encompasses the exercises covered throughout the Automated Testing with Java Selenium course provided by Școala Informală de IT. Its aim is to cultivate the proficiency in crafting an automated testing framework starting from the ground up. [Școala Informală de IT](https://scoalainformala.ro) is an educational institution focused on informal IT education and professional retraining.
 
 # Tech stack
-Test Automation Framework for UI with Selenium uses a number of open source projects to work properly:
+Test Automation Framework for UI with Selenium Java uses a number of open source projects to work properly:
 * [Java](https://www.java.com/en/) - is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 * [Selenium](https://www.selenium.dev) - is an open source umbrella project for a range of tools and libraries aimed at supporting browser automation.
-* [Școala Informală de IT](https://scoalainformala.ro) -  is an educational institution focused on informal IT education and professional retraining.
+* [JUnit4](https://junit.org/junit4/) - is an open-source framework designed to write and run repeatable automated tests.
 
 # Prerequisites
 ### Clone the repositories
