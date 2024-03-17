@@ -13,7 +13,7 @@ This repository encompasses the exercises covered throughout the Automated Testi
 
 # Tech stack
 Test Automation Framework for UI with Selenium Java uses a number of open source projects to work properly:
-* [Java](https://www.java.com/en/) - is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+*  - is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 * [Selenium](https://www.selenium.dev) - is an open source umbrella project for a range of tools and libraries aimed at supporting browser automation.
 * [JUnit4](https://junit.org/junit4/) - is an open-source framework designed to write and run repeatable automated tests.
 
